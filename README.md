@@ -1,2 +1,3 @@
 # KWBuilt
-This is project work with the ultimate goal of being a portfolio site.
+-- deprecated--
+This portfolio site is being replaced by built2gsd.com
